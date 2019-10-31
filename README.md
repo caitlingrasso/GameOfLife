@@ -1,1 +1,1 @@
-Python implementation of Conway's Game of Life using pygame	
+Python implementation of Conway's Game of Life using pygame	and matplotlib
